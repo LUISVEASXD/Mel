@@ -1,0 +1,32 @@
+AQUÍ ESTÁ EL LINK:
+
+  Toda la instalación lo haces en POWERSHELL ADMINISTRADOR.
+
+
+   URL: https://chocolatey.org/install
+	*Bajas un poco y le das click en ese botón y se te copia al portapapeles y lo pegas en el powershell*
+
+SIGUENTE COMNADO: choco install ffmpeg-full
+
+
+Lo siento por tardar tanto, no hay excusas. 
+  Mi error por confiarme y pensar que al estar encapsualdo no iba a fallar y por eso no lo probe en un sitio aislado. 
+
+TE AMO ❤
+
+
+
+
+
+*ACTUALIZADO:
+
+No sabes el dolor de cabeza que me acaba de dar por querer buscar una manera en devolver los malditos archivos como
+antes. Porque queria hacerlo todo perfecto tipo: con las fechas, con los comentarios, etc. 
+Pero bueno. Me costo una mañana y una noche de insomnio, pero no importa.
+
+Lveasツ ❤
+
+
+
+
+18/02/24:03:45
